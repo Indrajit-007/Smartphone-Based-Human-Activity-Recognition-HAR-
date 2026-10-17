@@ -1,0 +1,6 @@
+.venv/
+.env
+Raw Data/
+Processed Data/
+PCA Transformed Data/
+har_model.joblib
